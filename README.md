@@ -1,4 +1,7 @@
 # 🛒 Blinkit Sales Analysis Dashboard
+<p align="center">
+  <img src="Blinkit-Dashboard.jpg" alt="Blinkit Sales Dashboard" width="100%">
+</p>
 
 ## 📌 Project Overview
 
